@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body,h1,li,p,ul{margin:0}li,ul{list-style:none}body{background-color:#e3dfc8}.App{display:flex;flex-direction:column;align-items:center}.App__title{display:flex;justify-content:center;line-height:200%;color:#00416d}.list{padding:0 40px;width:800px}.list__item{display:flex;justify-content:space-between;background-color:#f5f1da;padding:10px 20px;border:1px solid #f8bd7f}
+/*# sourceMappingURL=main.d30417d7.chunk.css.map */
